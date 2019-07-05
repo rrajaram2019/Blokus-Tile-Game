@@ -25,5 +25,3 @@ show (tile#) - show a particular tile
 show tiles - show all created tiles
 
 rotate (tile#) - rotate a tile 90 degree counter-clockwise
-
-Here is the assignment page for reference: http://curl.bu.edu/static/content/ec327_sum19/ec327_sum19_blokus.html
